@@ -8,7 +8,7 @@ Study of 249 mice with squamous cell carcinoma and the effect that different dru
 ### Preparing the data:
 Called python dependancies and merge data from two different sources into a single data frame.
 Identified and removed duplicate data and created a new dataframe with all unique data and proceeded to build a statistics summary of the Tumor Volume for the different drug regimens in the data. <br><br><br>
-
+![alt text](Images/Screen_01.JPG)
 ### Create Bar Charts and Pie Charts
 Found the count of timepoints per drug regimen and created a bar chart to visualize the data. The same chart was created twice using pandas and using pyplot.
  <br><br>
