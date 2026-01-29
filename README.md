@@ -1,6 +1,5 @@
 # Drug Treatment Efficacy on Mice Tumors
-Week 05 Challenge - Matplotlib
-
+Python | Matplotlib | Pandas | Scipy.stats | Numpy | Seaborn
 
 ### Analysis
 Study of 249 mice with squamous cell carcinoma and the effect that different drug treatments have on their tumors. <br><br><br>
