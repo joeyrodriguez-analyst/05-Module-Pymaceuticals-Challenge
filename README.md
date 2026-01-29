@@ -1,4 +1,4 @@
-# 05-Module-Pymaceuticals-Challenge
+# Drug Treatment Efficacy on Mice Tumors
 Week 05 Challenge - Matplotlib
 
 
