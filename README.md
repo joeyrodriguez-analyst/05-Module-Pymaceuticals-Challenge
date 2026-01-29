@@ -9,10 +9,13 @@ Study of 249 mice with squamous cell carcinoma and the effect that different dru
 Called python dependancies and merge data from two different sources into a single data frame.
 Identified and removed duplicate data and created a new dataframe with all unique data and proceeded to build a statistics summary of the Tumor Volume for the different drug regimens in the data. <br><br><br>
 ![alt text](Images/Screen_01.JPG)
+![alt text](Images/Screen_02.JPG)
+
 ### Create Bar Charts and Pie Charts
 Found the count of timepoints per drug regimen and created a bar chart to visualize the data. The same chart was created twice using pandas and using pyplot.
  <br><br>
 Calculated the total male mice and total female mice and created a pie chart to visualize the data labeled with the percentage of each sex. The same chart was created twice using pandas and using pyplot <br><br><br>
+![alt text](Images/Screen_03.JPG)
 
 ### Calculate Quartiles, Find Outliers, and Create a Box Plot
 Calculated the greatest timepoint for each mouse and merged the data with the original dataframe to creat a new dataframe to only data related to the greatest timepoint for each mouse.
@@ -23,7 +26,8 @@ For loop was utilized to calculate the lower quartile, interquartile, upper quar
 Another for loop then checks each drug treatment for outliers and prints the results.
  <br><br>
 a box plot is generated to compare the four drug treatments and visualize their respective quartile ranges and any identified outlier(s). <br> <br> <br>
-
+![alt text](Images/Screen_04.JPG)
+![alt text](Images/Screen_05.JPG)
 
 *"Quartiles, Outliers and Boxplots" section was a collaborative effort with Mario Martinez*<br><br><br>
 
@@ -36,4 +40,5 @@ Matplotlib was again used to generate a scatter plot for mouse weight vs. averag
 ### Correlation coeffand Regression
 Calculated the correlation coefficient and linear regression  for weight vs average tumor volume for only the Capomulin regimen.<br> <br> <br><br><br> <br> <br><br>
 ###
+![alt text](Images/Screen_06.JPG)
 *"Quartiles, Outliers and Boxplots" section was a collaborative effort with Mario Martinez*
